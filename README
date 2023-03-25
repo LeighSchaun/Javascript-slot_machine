@@ -1,0 +1,31 @@
+Slot Machine Game
+This is a simple command-line-based slot machine game built using JavaScript and Node.js.
+
+How to Play
+Deposit some money
+Enter the number of lines to bet on
+Enter the total bet per line
+Spin the slot machine
+Check if you won
+Collect your winnings
+Play again
+Features
+The game allows the player to deposit an initial amount of money.
+The player can choose the number of lines to bet on and the total bet per line.
+The slot machine generates random symbols and displays them on the screen.
+The game calculates the winnings based on the number of matching symbols on the selected lines.
+The player can continue playing until they run out of money or choose to quit.
+Requirements
+Node.js (v14.16.0 or later)
+Installation
+Clone the repository: git clone https://github.com/username/slot-machine-game.git
+Navigate to the project directory: cd slot-machine-game
+Install the dependencies: npm install
+Usage
+Run the game: node index.js
+Follow the prompts to play the game.
+Credits
+This game was developed by [Your Name] as a project for [Course Name or Company Name].
+
+License
+This project is licensed under the MIT License.
